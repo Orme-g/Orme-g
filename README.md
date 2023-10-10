@@ -4,7 +4,7 @@ Hi, I'm Ilya 👋
 Studying Frontend developer. 
 In infinite way of studying new technologies.
 
-🛠 Technical Stack
+🛠 Technical Stack </br>
 • JavaScript/TypeScript
 • HTML5/CSS3/SASS
 • React
