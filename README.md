@@ -1,4 +1,16 @@
-### Hi there 👋
+Hi, I'm Ilya 👋
+
+👨🏻‍💻 About me
+Studying Frontend developer. 
+In infinite way of studying new technologies.
+
+🛠 Technical Stack
+• JavaScript/TypeScript
+• HTML5/CSS3/SASS
+• React
+• Redux/Redux Toolkit/RTK Query
+• MongoDB
+... to be continued
 
 <!--
 **Orme-g/Orme-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
