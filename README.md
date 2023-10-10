@@ -1,15 +1,15 @@
 Hi, I'm Ilya 👋
 
-👨🏻‍💻 About me
-Studying Frontend developer. 
-In infinite way of studying new technologies.
+👨🏻‍💻 About me </br>
+Studying Frontend developer. </br>
+In infinite way of studying new technologies. </br>
 
 🛠 Technical Stack </br>
-• JavaScript/TypeScript
-• HTML5/CSS3/SASS
-• React
-• Redux/Redux Toolkit/RTK Query
-• MongoDB
+• JavaScript/TypeScript </br>
+• HTML5/CSS3/SASS </br>
+• React </br>
+• Redux/Redux Toolkit/RTK Query </br>
+• MongoDB </br>
 ... to be continued
 
 <!--
