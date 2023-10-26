@@ -5,7 +5,7 @@ Studying Frontend developer. </br>
 In infinite way of studying new technologies. </br>
 
 🛠 Technical Stack </br>
-• JavaScript/TypeScript </br>
+• JavaScript </br>
 • HTML5/CSS3/SASS </br>
 • React </br>
 • Redux/Redux Toolkit/RTK Query </br>
