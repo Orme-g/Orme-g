@@ -6,11 +6,13 @@ In infinite way of studying new technologies. </br>
 
 🛠 Technical Stack </br>
 • JavaScript </br>
+• TypeScript </br>
 • HTML5/CSS3/SASS </br>
 • React </br>
 • Redux/Redux Toolkit/RTK Query </br>
 • MongoDB </br>
-... to be continued
+• Docker </br>
+
 
 <!--
 **Orme-g/Orme-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
