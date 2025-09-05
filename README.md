@@ -12,6 +12,7 @@ In infinite way of studying new technologies. </br>
 • Redux/Redux Toolkit/RTK Query </br>
 • MongoDB </br>
 • Docker </br>
+• NextJS </br>
 
 
 <!--
